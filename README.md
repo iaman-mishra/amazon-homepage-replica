@@ -22,6 +22,10 @@ git clone https://github.com/amanmishra5272/amazon-homepage-replica.git
 
 Then, navigate to the cloned directory and open `index.html` in your preferred web browser.
 
+## Preview
+
+You can view the live version of the Amazon homepage replica on GitHub Pages by clicking [here](https://your-username.github.io/amazon-homepage-replica/).
+
 ## Contributing
 
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are welcome!
