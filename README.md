@@ -24,7 +24,7 @@ Then, navigate to the cloned directory and open `index.html` in your preferred w
 
 ## Preview
 
-You can view the live version of the Amazon homepage replica on GitHub Pages by clicking [here](https://your-username.github.io/amazon-homepage-replica/).
+You can view the live version of the Amazon homepage replica on GitHub Pages by clicking [here](https://amanmishra5272.github.io/amazon-homepage-replica/).
 
 ## Contributing
 
