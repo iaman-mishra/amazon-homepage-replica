@@ -17,14 +17,14 @@ This repository contains the code for a static replica of the Amazon homepage. I
 To view the replica, simply open the `index.html` file in your web browser. You can also clone the repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/amanmishra5272/amazon-homepage-replica.git
+git clone https://github.com/iaman-mishra/amazon-homepage-replica.git
 ```
 
 Then, navigate to the cloned directory and open `index.html` in your preferred web browser.
 
 ## Preview
 
-You can view the live version of the Amazon homepage replica on GitHub Pages by clicking [here](https://amanmishra5272.github.io/amazon-homepage-replica/).
+You can view the live version of the Amazon homepage replica on GitHub Pages by clicking [here](https://iaman-mishra.github.io/amazon-homepage-replica/).
 
 ## Contributing
 
